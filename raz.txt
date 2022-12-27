@@ -1,0 +1,1 @@
+Amount of elements that happens in array 1 time only:   3
